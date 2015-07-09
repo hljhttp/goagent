@@ -27,3 +27,5 @@
 |caoliumsa@gmail.com | woyaopink 小号 |
 
 注：因为 giftmoneyplus@gmail.com 依然干扰 issues, 自动巡查脚本已经打开，大家不用理会它既可。
+
+https://gist.githubusercontent.com/phuslu/bc2588da5072a384aa87/raw/79c87680090e866f49ed74ace6fd39a6cb971703/googlecode.py
