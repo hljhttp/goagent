@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxxx/xxx.ipa</string>
+					<string>http://192.168.100.15:58080/download-ticket?ticketId=ab635adc2f1583d0907a74fb60b153d362af4f1</string>
 				</dict>
 				<dict>
 					<key>kind</key>
